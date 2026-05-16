@@ -93,19 +93,19 @@
       "static/chunks/main-app-33b9a6a4af794b7a.js",
       "static/chunks/app/api/earn/ad-config/route-607c37ae0c99ebd6.js"
     ],
-    "/api/referrals/route": [
-      "static/chunks/webpack-bf1b03f61dda2f11.js",
-      "static/chunks/b82dd231-75e7d250d716d5da.js",
-      "static/chunks/569-936a8f2c94d54ec8.js",
-      "static/chunks/main-app-33b9a6a4af794b7a.js",
-      "static/chunks/app/api/referrals/route-5efc4dc04eb32bad.js"
-    ],
     "/api/earn/videos/route": [
       "static/chunks/webpack-bf1b03f61dda2f11.js",
       "static/chunks/b82dd231-75e7d250d716d5da.js",
       "static/chunks/569-936a8f2c94d54ec8.js",
       "static/chunks/main-app-33b9a6a4af794b7a.js",
       "static/chunks/app/api/earn/videos/route-53eb480793aed0df.js"
+    ],
+    "/api/referrals/route": [
+      "static/chunks/webpack-bf1b03f61dda2f11.js",
+      "static/chunks/b82dd231-75e7d250d716d5da.js",
+      "static/chunks/569-936a8f2c94d54ec8.js",
+      "static/chunks/main-app-33b9a6a4af794b7a.js",
+      "static/chunks/app/api/referrals/route-5efc4dc04eb32bad.js"
     ],
     "/api/rewards/spin/route": [
       "static/chunks/webpack-bf1b03f61dda2f11.js",
