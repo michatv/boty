@@ -11,14 +11,14 @@
   "/api/auth/telegram/route": "app/api/auth/telegram/route.js",
   "/api/check-deposit/route": "app/api/check-deposit/route.js",
   "/api/earn/ad-config/route": "app/api/earn/ad-config/route.js",
-  "/api/earn/videos/route": "app/api/earn/videos/route.js",
   "/api/referrals/route": "app/api/referrals/route.js",
-  "/api/tasks/complete/route": "app/api/tasks/complete/route.js",
+  "/api/earn/videos/route": "app/api/earn/videos/route.js",
   "/api/rewards/spin/route": "app/api/rewards/spin/route.js",
+  "/api/tasks/complete/route": "app/api/tasks/complete/route.js",
   "/api/tasks/route": "app/api/tasks/route.js",
   "/api/user/me/route": "app/api/user/me/route.js",
   "/api/wallet/balance/route": "app/api/wallet/balance/route.js",
   "/api/wallet/withdraw/route": "app/api/wallet/withdraw/route.js",
-  "/page": "app/page.js",
-  "/admin/page": "app/admin/page.js"
+  "/admin/page": "app/admin/page.js",
+  "/page": "app/page.js"
 }
