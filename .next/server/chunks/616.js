@@ -1,0 +1,1 @@
+"use strict";exports.id=616,exports.ids=[616],exports.modules={6616:(e,s,t)=>{t.d(s,{getSupabaseAdmin:()=>i});var r=t(4855);let o=process.env.NEXT_PUBLIC_SUPABASE_URL,n=process.env.SUPABASE_SERVICE_ROLE_KEY;function i(){return(0,r.UU)(o,n,{auth:{autoRefreshToken:!1,persistSession:!1}})}}};
